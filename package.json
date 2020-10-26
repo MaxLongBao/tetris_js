@@ -1,0 +1,19 @@
+{
+  "name": "tetris_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxLongBao/tetris_js.git"
+  },
+  "author": "Max Bisceglie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxLongBao/tetris_js/issues"
+  },
+  "homepage": "https://github.com/MaxLongBao/tetris_js#readme"
+}
