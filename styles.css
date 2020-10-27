@@ -1,3 +1,7 @@
+body {
+  background-color: black;
+}
+
 #game-area {
   margin: 0 auto;
   width: 200px;;
@@ -6,8 +10,14 @@
 }
 
 .square {
-  background-color: red;
+  background-color: white;
   border: 1px solid blue;
   width: 20px;
   height: 20px;
 }
+
+.green {
+  background-color: green;
+}
+
+/* 194 195 196 185 */
