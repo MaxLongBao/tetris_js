@@ -1,0 +1,13 @@
+#game-area {
+  margin: 0 auto;
+  width: 200px;;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+}
+
+.square {
+  background-color: red;
+  border: 1px solid blue;
+  width: 20px;
+  height: 20px;
+}
